@@ -1,0 +1,9 @@
+zuul:
+  routes:
+    route-test:
+      path : /route-test
+      url : http://www.163.com
+
+test:
+  user:
+    name : zuul-1
